@@ -1,0 +1,154 @@
+{
+  "images": {
+    "MAHMUoQldHg": {
+      "src": "assets/media/MAHMUoQldHg.jpg",
+      "width": 1600,
+      "height": 2400,
+      "originalUrl": "_assets/media/64650491377154985461f0cb48a95b45.jpg"
+    },
+    "MAHMUsHbHyA": {
+      "src": "assets/media/MAHMUsHbHyA.jpg",
+      "width": 1024,
+      "height": 1536,
+      "originalUrl": "_assets/media/49c4b1658e9413a3a9716e024e1735b0.jpg"
+    },
+    "MAHMUy6PHkI": {
+      "src": "assets/media/MAHMUy6PHkI.jpg",
+      "width": 1600,
+      "height": 2400,
+      "originalUrl": "_assets/media/9768f51b1c96d5dbe35c7de0b723fc9a.jpg"
+    },
+    "MAHMUgu9PHs": {
+      "src": "assets/media/MAHMUgu9PHs.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalUrl": "_assets/media/c3d52c7291f4c2a30014e57c7dff7d1c.jpg"
+    },
+    "MAHL6Dea_iE": {
+      "src": "assets/media/MAHL6Dea_iE.jpg",
+      "width": 1600,
+      "height": 2400,
+      "originalUrl": "_assets/media/f5e68972080943ed8d7457f4a309e42d.jpg"
+    },
+    "MAHL6HLJ4TI": {
+      "src": "assets/media/MAHL6HLJ4TI.jpg",
+      "width": 1599,
+      "height": 2400,
+      "originalUrl": "_assets/media/b6c7934fe2fdf4d5f634cbf94af64695.jpg"
+    },
+    "MAHL6J9PVYI": {
+      "src": "assets/media/MAHL6J9PVYI.jpg",
+      "width": 1600,
+      "height": 2400,
+      "originalUrl": "_assets/media/c1ca2e936ab896fa1ed8a3743162f961.jpg"
+    },
+    "MAHMUlPc8yc": {
+      "src": "assets/media/MAHMUlPc8yc.jpg",
+      "width": 1600,
+      "height": 2400,
+      "originalUrl": "_assets/media/164f915cd4fa6562b47fe5a8f67de210.jpg"
+    },
+    "MAHL6GfdABs": {
+      "src": "assets/media/MAHL6GfdABs.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalUrl": "_assets/media/54169df42a01bcafedb8a64e5b4002bd.jpg"
+    },
+    "MAHMUi7J1cg": {
+      "src": "assets/media/MAHMUi7J1cg.jpg",
+      "width": 1600,
+      "height": 2400,
+      "originalUrl": "_assets/media/2c520afe19eca91e4f78ae3d574d3c1f.jpg"
+    },
+    "MAHMUjFQFmQ": {
+      "src": "assets/media/MAHMUjFQFmQ.jpg",
+      "width": 1600,
+      "height": 2400,
+      "originalUrl": "_assets/media/74619a8da0c84668dd2ec7dffaf5f10a.jpg"
+    },
+    "MAHLGosBZDU": {
+      "src": "assets/media/MAHLGosBZDU.jpg",
+      "width": 1600,
+      "height": 2400,
+      "originalUrl": "_assets/media/907ffd6460730bc88fd7ad64541308f4.jpg"
+    },
+    "MAHMUjs_VTU": {
+      "src": "assets/media/MAHMUjs_VTU.jpg",
+      "width": 1600,
+      "height": 2400,
+      "originalUrl": "_assets/media/42331756a4956f320a3226d52684582a.jpg"
+    },
+    "MAHMUieyfs4": {
+      "src": "assets/media/MAHMUieyfs4.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalUrl": "_assets/media/482ee7c2fc2f6810bb7f3775e0394a08.jpg"
+    }
+  },
+  "fonts": {
+    "Arimo": [
+      {
+        "style": "REGULAR",
+        "src": "assets/fonts/arimo-regular.woff",
+        "originalUrl": "_assets/fonts/834f64ff415fb8f4f5d92d8fd40507e9.woff",
+        "format": "WOFF"
+      },
+      {
+        "style": "BOLD_ITALICS",
+        "src": "assets/fonts/arimo-bold-italics.woff",
+        "originalUrl": "_assets/fonts/0803f40e19a074a5520c2746a6ba3c95.woff",
+        "format": "WOFF"
+      },
+      {
+        "style": "BOLD",
+        "src": "assets/fonts/arimo-bold.woff",
+        "originalUrl": "_assets/fonts/b07201e0e9fc452103c1c0345b0e7c1d.woff",
+        "format": "WOFF"
+      },
+      {
+        "style": "ITALICS",
+        "src": "assets/fonts/arimo-italics.woff",
+        "originalUrl": "_assets/fonts/711f50b3a8c00bb7e2e05ef85f982cb6.woff",
+        "format": "WOFF"
+      }
+    ],
+    "DM Sans": [
+      {
+        "style": "BOLD",
+        "src": "assets/fonts/dm-sans-bold.woff",
+        "originalUrl": "_assets/fonts/fe4bbf2ac0e07574f48d1302ae4f9e1e.woff",
+        "format": "WOFF"
+      },
+      {
+        "style": "REGULAR",
+        "src": "assets/fonts/dm-sans-regular.woff",
+        "originalUrl": "_assets/fonts/ce227117a9a4f3b60ded95174d6ebb58.woff",
+        "format": "WOFF"
+      }
+    ],
+    "Heading Now 71-78": [
+      {
+        "style": "REGULAR",
+        "src": "assets/fonts/heading-now-71-78-regular.woff",
+        "originalUrl": "_assets/fonts/0f28d3c7cb78bdff659e70961837ceac.woff",
+        "format": "WOFF"
+      }
+    ],
+    "Open Sans": [
+      {
+        "style": "REGULAR",
+        "src": "assets/fonts/open-sans-regular.woff",
+        "originalUrl": "_assets/fonts/8a554be3f10d4a5c0b33a5b14bbcaa92.woff",
+        "format": "WOFF"
+      }
+    ],
+    "Le Jour Serif": [
+      {
+        "style": "REGULAR",
+        "src": "assets/fonts/le-jour-serif-regular.woff",
+        "originalUrl": "_assets/fonts/e405fc6c5f426694b4350633e718ac60.woff",
+        "format": "WOFF"
+      }
+    ]
+  }
+}
