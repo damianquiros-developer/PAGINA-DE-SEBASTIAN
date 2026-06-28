@@ -673,6 +673,40 @@ blockquote {
   aspect-ratio: 4 / 3;
 }
 
+.project-fashion .fashion-copy {
+  grid-column: 1 / 5;
+  grid-row: 1;
+  align-self: start;
+}
+
+.fashion-hero {
+  grid-column: 5 / 9;
+  grid-row: 1;
+  aspect-ratio: 4 / 5;
+  min-height: 0;
+}
+
+.fashion-detail {
+  grid-column: 9 / 13;
+  grid-row: 1;
+  aspect-ratio: 4 / 5;
+  min-height: 0;
+}
+
+.fashion-secondary {
+  grid-column: 1 / 5;
+  grid-row: 2;
+  aspect-ratio: 4 / 5;
+  min-height: 0;
+}
+
+.fashion-gallery {
+  grid-column: 5 / 13;
+  grid-row: 2;
+  columns: 4 170px;
+  column-gap: 18px;
+}
+
 .project-products .product-copy {
   grid-column: 5 / 9;
   grid-row: 1;
@@ -693,12 +727,23 @@ blockquote {
   aspect-ratio: 16 / 10;
 }
 
+.product-gallery,
+.fashion-gallery {
+  grid-column: 1 / -1;
+  columns: 4 210px;
+  column-gap: 18px;
+}
+
 .product-gallery {
   grid-column: 1 / -1;
   grid-row: 3;
-  columns: 4 210px;
-  column-gap: 18px;
   margin-top: 42px;
+}
+
+.fashion-gallery {
+  grid-column: 5 / 13;
+  grid-row: 2;
+  margin-top: 0;
 }
 
 .product-gallery-item {
@@ -752,7 +797,7 @@ blockquote {
 .service-list {
   grid-column: 3 / 13;
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 1px;
   margin-top: 54px;
   background: var(--line);
@@ -1133,6 +1178,11 @@ blockquote {
   .portrait-main,
   .portrait-wide,
   .portrait-secondary,
+  .project-fashion .fashion-copy,
+  .fashion-hero,
+  .fashion-detail,
+  .fashion-secondary,
+  .fashion-gallery,
   .project-products .product-copy,
   .product-main,
   .product-wide {
@@ -1199,6 +1249,37 @@ blockquote {
     grid-column: 4 / -1;
     grid-row: 2;
     aspect-ratio: 3 / 4;
+  }
+
+  .project-fashion .fashion-copy {
+    grid-column: 1 / 4;
+    grid-row: 1;
+  }
+
+  .fashion-hero {
+    grid-column: 4 / -1;
+    grid-row: 1;
+    aspect-ratio: 3 / 4;
+  }
+
+  .fashion-detail {
+    grid-column: 1 / 4;
+    grid-row: 2;
+    aspect-ratio: 3 / 4;
+  }
+
+  .fashion-secondary {
+    grid-column: 4 / -1;
+    grid-row: 2;
+    aspect-ratio: 3 / 4;
+  }
+
+  .fashion-gallery {
+    grid-column: 1 / -1;
+    grid-row: 3;
+    columns: 3 180px;
+    column-gap: 14px;
+    margin-top: 18px;
   }
 
   .project-products .product-copy {
@@ -1328,6 +1409,9 @@ blockquote {
   .basilica-tall,
   .portrait-main,
   .portrait-secondary,
+  .fashion-hero,
+  .fashion-detail,
+  .fashion-secondary,
   .product-main {
     min-height: auto;
     aspect-ratio: 4 / 5;
@@ -1341,6 +1425,11 @@ blockquote {
   .portrait-main,
   .portrait-wide,
   .portrait-secondary,
+  .project-fashion .fashion-copy,
+  .fashion-hero,
+  .fashion-detail,
+  .fashion-secondary,
+  .fashion-gallery,
   .project-products .product-copy,
   .product-main,
   .product-wide,
@@ -1365,6 +1454,7 @@ blockquote {
     border-width: 8px;
   }
 
+  .fashion-gallery,
   .product-gallery {
     columns: 2 130px;
     column-gap: 12px;
